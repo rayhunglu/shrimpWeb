@@ -9,8 +9,8 @@ export default function ContactInfo() {
         <div className={`${componentClasses.containerLg} text-xl`}>
           <ul>
             <li>
-              <a className="" href="https://www.instagram.com/shrimp_insanity">
-                <img src="/assets/logo-icon-instagram.png" alt="Logo" class="w-8 h-8" />
+              <a className="bg-transparent" href="https://www.instagram.com/shrimp_insanity">
+                <img className="bg-transparent" src="/assets/logo-icon-instagram.png" alt="Logo" class="w-8 h-8" />
               </a>
             </li>
           </ul>

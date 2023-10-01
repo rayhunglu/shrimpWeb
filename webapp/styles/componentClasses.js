@@ -5,7 +5,7 @@ export const navbarButton = 'text-white	scroll-smooth'
 
 export const section = 'h-auto py-10'
 export const sectionTitle = 'w-full h-auto text-4xl px-20 pt-5'
-export const containerLg = 'w-2/3 translate-x-1/4 bg-white p-5'
+export const containerLg = 'w-2/3 translate-x-1/4 bg-transparent text-white p-5'
 export const containerMd = 'w-1/2 translate-x-1/2 bg-white'
 export const containerSm = 'w-1/3 translate-x-full bg-white'
 export const container = 'w-full grid grid-cols-3 gap-x-8 m-5'
@@ -13,7 +13,7 @@ export const leftIinner = 'col-span-1 text-l'
 export const rightIinner = 'col-span-2 text-l'
 
 export const skillWraper = 'mt-2 flex flex-wrap'
-export const skillContainer = 'w-fit bg-blue-200 rounded-full overflow-hidden mt-2 mr-4'
+export const skillContainer = 'w-fit bg-blue-200 rounded-full overflow-hidden mt-2 mr-4 text-black'
 export const skill = 'p-2 text-xs'
 
 export const titleFont = 'font-bold pb-2'
