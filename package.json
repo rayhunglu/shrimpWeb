@@ -30,7 +30,7 @@
     "webpack": "^5.88.2"
   },
   "scripts": {
-    "prod": "nvm use 18 && npm install && npm run build && npm start",
+    "prod": "npm install && npm run build && npm start",
     "build": "npx webpack-cli",
     "dev": "npx webpack-cli watch",
     "start": " node -r dotenv/config src/index.js"
