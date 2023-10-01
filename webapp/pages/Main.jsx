@@ -3,6 +3,7 @@ import Welcome from '../components/Welcome';
 import About from '../components/About';
 import Awards from '../components/Awards';
 import Products from '../components/Products';
+import ContactInfo from '../components/ContactInfo';
 
 export default function Main() {
   return (
@@ -11,6 +12,7 @@ export default function Main() {
       <About/>
       <Awards/>
       <Products/>
+      <ContactInfo/>
     </div>
 
   );

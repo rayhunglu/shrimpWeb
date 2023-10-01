@@ -4,7 +4,7 @@ export const navbarButtonGroup = 'font-medium flex md:p-0 rounded-lg bg-transpar
 export const navbarButton = 'text-white	scroll-smooth'
 
 export const section = 'h-auto py-10'
-export const sectionTitle = 'w-full h-auto text-4xl px-10'
+export const sectionTitle = 'w-full h-auto text-4xl px-20 pt-5'
 export const containerLg = 'w-2/3 translate-x-1/4 bg-white p-5'
 export const containerMd = 'w-1/2 translate-x-1/2 bg-white'
 export const containerSm = 'w-1/3 translate-x-full bg-white'
